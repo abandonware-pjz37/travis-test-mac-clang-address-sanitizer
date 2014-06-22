@@ -1,0 +1,7 @@
+language:
+    - objective-c
+
+script:
+    - which clang++
+    - clang++ --version
+    - clang++ -fsanitize=address foo.cpp
