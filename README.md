@@ -1,4 +1,4 @@
-travis-test-mac-clang-address-sanitizer
-=======================================
+[![Build Status][master]][repo]
 
-Test clang address sanitizer on Mac
+[master]: https://travis-ci.org/travis-ci-tester/travis-test-mac-clang-address-sanitizer.svg?branch=master
+[repo]: https://travis-ci.org/travis-ci-tester/travis-test-mac-clang-address-sanitizer
